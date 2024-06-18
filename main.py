@@ -5,7 +5,7 @@ import logging
 from pymongo import MongoClient
 
 app = Flask(__name__)
-TOKEN = "6868304328:AAGzdTdPnJoI65BcyFk-xPKolF8wLdH2XJk"  # Sostituisci con il token del tuo bot
+TOKEN = "my_token"  # Sostituisci con il token del tuo bot
 bot = Bot(TOKEN)
 dispatcher = Dispatcher(bot, None, workers=0)
 
