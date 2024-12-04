@@ -1,7 +1,7 @@
-# IoT-vinegard
-IoT monitoring for vinegard
+# IoT-vineyard
+IoT monitoring for vineyard
 
-Vinegard monitoring temperature, soil mosture, humidity and luminosity.
+Vineyard monitoring temperature, soil mosture, humidity and luminosity.
 
 
 ## Functional Requirements
